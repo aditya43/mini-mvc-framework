@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteBase /path/to/this/directory
+RewriteRule ^.*$ index.php [END]
